@@ -1,0 +1,3 @@
+C:/Users/user/OneDrive/Documents/FCAI/Level 2/OOP/CS213-2023-2024-Assignment1-V1.0/Gray Scale Image Processor/cmake-build-debug/CMakeFiles/Gray_Scale_Image_Processor.dir
+C:/Users/user/OneDrive/Documents/FCAI/Level 2/OOP/CS213-2023-2024-Assignment1-V1.0/Gray Scale Image Processor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/OneDrive/Documents/FCAI/Level 2/OOP/CS213-2023-2024-Assignment1-V1.0/Gray Scale Image Processor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
