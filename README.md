@@ -30,6 +30,8 @@ e, f. **Skew Horizontally / Vertically:** Skews the image to the right or up.
 - `bmplib.cpp`, `bmplib.h`: A small library with four functions for loading the pixels of the image into a 2D or 3D array.
 - `GrayImages.cpp`: Program for filters on grayscale images.
 - `RGBImages.cpp`: Program for filters on RGB images.
+- `gray images/`: Folder containing grayscale testing images used for all filters.
+- `RGB images/`: Folder containing RGB testing images used for all filters.
 - `filtersDiagram.png`: Diagram showing each filter and their functions.
 
 ![Project Image](filtersDiagram.png)
