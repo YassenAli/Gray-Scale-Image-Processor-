@@ -47,3 +47,10 @@ To use the software, compile and run either `GrayImages.cpp` for grayscale image
 ## Contributions
 
 Contributions are welcome! If you want to contribute to this project, please fork the repository and submit a pull request.
+
+## Contact
+
+For questions or feedback regarding the Gray Scale Image Processor, feel free to contact us:
+
+- Email: [yassinalilearning77076@gmail.com](mailto:yassinalilearning77076@gmail.com)
+- GitHub Issues: [Project Issues](https://github.com/YassenAli/Gray-Scale-Image-Processor-by-CPP/issues)
