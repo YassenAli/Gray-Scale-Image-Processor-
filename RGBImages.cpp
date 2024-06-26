@@ -1,7 +1,7 @@
 // FCAI – OOP Programming – 2023 - Assignment 1
 // Program Name:			Gray Scale Image Processor
 // Last Modification Date:	9/10/2023
-// Author1 and ID and Group and Email:	Yassin Ali 20220381 s1 yassinalilearning77076@gmail.com
+// Author1 and Email:	Yassin Ali yassinalilearning77076@gmail.com
 // Teaching Assistant:
 // Purpose: Demonstrate use of bmplip for handling
 //          bmp grayscale images
