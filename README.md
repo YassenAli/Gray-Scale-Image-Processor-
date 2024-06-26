@@ -1,7 +1,5 @@
 # Gray Scale Image Processor
 
-![Project Image](filtersDiagram.png)
-
 An image processing software designed for manipulating grayscale and RGB images with various filters and operations.
 
 ## Description
@@ -19,20 +17,22 @@ This project provides functionality similar to photo editing software, allowing 
 7. **Detect Image Edges:** Converts the image to a sketch-like version highlighting edges.
 8. **Enlarge Image:** Enlarges one quarter of the image into a new image.
 9. **Shrink Image:** Reduces image dimensions by factors of 2, 3, or 4.
-10. **Mirror Image:** Mirrors sections of the image.
-11. **Shuffle Image:** Rearranges quarters of the image based on user input.
-12. **Blur Image:** Applies a blur effect to the image.
-13. **Crop Image:** Crops a square section of the image.
-14. **Skew Horizontally / Vertically:** Skews the image to the right or up.
+a. **Mirror Image:** Mirrors sections of the image.
+b. **Shuffle Image:** Rearranges quarters of the image based on user input.
+c. **Blur Image:** Applies a blur effect to the image.
+d. **Crop Image:** This filter allows entering an x, y position and cutting a square of length and width l, w to keep and removing the rest.
+e, f. **Skew Horizontally / Vertically:** Skews the image to the right or up.
 
 ## Files
 
 - `cmake-build-debug/`: Build directory.
-- `images/`: Folder containing test images.
-- `bmplib.cpp`, `bmplib.h`: Library for loading image pixels into arrays.
+- `images/`: Folder to test images in the program.
+- `bmplib.cpp`, `bmplib.h`: A small library with four functions for loading the pixels of the image into a 2D or 3D array.
 - `GrayImages.cpp`: Program for filters on grayscale images.
 - `RGBImages.cpp`: Program for filters on RGB images.
 - `filtersDiagram.png`: Diagram showing each filter and their functions.
+
+![Project Image](filtersDiagram.png)
 
 ## Coding Style
 
