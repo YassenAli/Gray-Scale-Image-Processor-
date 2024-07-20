@@ -34,7 +34,7 @@ e, f. **Skew Horizontally / Vertically:** Skews the image to the right or up.
 - `RGB images/`: Folder containing RGB testing images used for all filters.
 - `filtersDiagram.png`: Diagram showing each filter and their functions.
 
-<div class="center">
+<div align="center">
 ![Project Image](filtersDiagram.png)
 </div>
 
