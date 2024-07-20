@@ -2,7 +2,6 @@
 // Program Name:			Gray Scale Image Processor
 // Last Modification Date:	9/10/2023
 // Author and Email:	    Yassin Ali yassinalilearning77076@gmail.com
-// Teaching Assistant:
 // Purpose: Demonstrate use of bmplip for handling
 //          bmp colored and grayscale images
 //          Program load a colored image and store in another file
