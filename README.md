@@ -50,7 +50,8 @@ To use the software, compile and run either `GrayImages.cpp` for grayscale image
 
 ## Contributions
 
-Contributions are welcome! If you want to contribute to this project, please fork the repository and submit a pull request.
+Contributions are welcome! 
+If you want to contribute to this project, please fork the repository and submit a pull request.
 
 ## Contact
 
