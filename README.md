@@ -35,9 +35,8 @@ e, f. **Skew Horizontally / Vertically:** Skews the image to the right or up.
 - `filtersDiagram.png`: Diagram showing each filter and their functions.
 
 <div align="center">
-  
-![Project Image](filtersDiagram.png)
 
+![Project Image](filtersDiagram.png)
 </div>
 
 ## Coding Style
