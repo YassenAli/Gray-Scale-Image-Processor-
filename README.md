@@ -6,7 +6,6 @@ An image processing software designed for manipulating grayscale and RGB images 
 
 This project provides functionality similar to photo editing software, allowing users to load images, apply filters, and save modified versions. Filters include operations like converting to black and white, inverting colors, merging images, flipping, rotating, adjusting brightness, detecting edges, enlarging, shrinking, mirroring, shuffling, blurring, cropping, and skewing.
 
-
 ### Filters Overview
 
 1. **Black and White Image:** Converts the image to black and white based on average gray level.
