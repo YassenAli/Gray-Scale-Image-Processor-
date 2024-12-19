@@ -6,7 +6,6 @@
 //          bmp colored and grayscale images
 //          Program load a colored image and store in another file
 
-
 #include <bits/stdc++.h> // Include all standard libraries
 #include "bmplib.cpp"
 
